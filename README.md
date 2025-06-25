@@ -221,19 +221,19 @@ Edit `.env.local` with your configuration:
 ## 📱 Screenshots
 
 ### Homepage
-![Homepage](![Screenshot 2025-06-25 230045](https://github.com/user-attachments/assets/88ba41b7-d7a0-4731-ae93-08e1c22c73af)
+![Screenshot 2025-06-25 230045](https://github.com/user-attachments/assets/88ba41b7-d7a0-4731-ae93-08e1c22c73af)
 *Modern homepage with hero section, featured posts, and statistics*
 
 ### User Dashboard
-![Dashboard](![Screenshot 2025-06-25 230220](https://github.com/user-attachments/assets/2ff70c42-0820-43ad-b1fe-ce774e85c431)
+![Screenshot 2025-06-25 230220](https://github.com/user-attachments/assets/2ff70c42-0820-43ad-b1fe-ce774e85c431)
 *Comprehensive dashboard with post management, analytics, and quick actions*
 
 ### Post Creation
-![Post Creation](![Screenshot 2025-06-25 230244](https://github.com/user-attachments/assets/24c4529a-b5bc-49eb-92a2-241da5bc110a)
+![Screenshot 2025-06-25 230244](https://github.com/user-attachments/assets/24c4529a-b5bc-49eb-92a2-241da5bc110a)
 *Rich post creation interface with publishing options and preview*
 
 ### Posts Listing
-![Posts Listing](![Screenshot 2025-06-25 230350](https://github.com/user-attachments/assets/c394fe09-664c-4884-ab48-244da8eca3ea)
+![Screenshot 2025-06-25 230350](https://github.com/user-attachments/assets/c394fe09-664c-4884-ab48-244da8eca3ea)
 *Posts listing with search, filtering, and pagination functionality*
 
 ### Authentication
