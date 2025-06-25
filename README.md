@@ -122,7 +122,7 @@ npm run dev
 
 ## Project Structure
 
-\`\`\`
+
 mern-blog-app/
 ├── app/                          # Next.js App Router
 │   ├── api/                      # API Routes (Backend)
@@ -160,7 +160,7 @@ mern-blog-app/
 ├── .env.local                    # Environment variables
 ├── package.json                  # Dependencies
 └── README.md                     # Project documentation
-\`\`\`
+
 
 ## Deployment
 
@@ -225,24 +225,21 @@ Edit `.env.local` with your configuration:
 *Modern homepage with hero section, featured posts, and statistics*
 
 ### User Dashboard
-![Dashboard](https://via.placeholder.com/800x400/10B981/FFFFFF?text=User+Dashboard+-+Post+Management+%26+Analytics)
+![Dashboard](![Screenshot 2025-06-25 230220](https://github.com/user-attachments/assets/2ff70c42-0820-43ad-b1fe-ce774e85c431)
 *Comprehensive dashboard with post management, analytics, and quick actions*
 
 ### Post Creation
-![Post Creation](https://via.placeholder.com/800x400/8B5CF6/FFFFFF?text=Post+Creation+-+Rich+Editor+with+Publishing+Options)
+![Post Creation](![Screenshot 2025-06-25 230244](https://github.com/user-attachments/assets/24c4529a-b5bc-49eb-92a2-241da5bc110a)
 *Rich post creation interface with publishing options and preview*
 
 ### Posts Listing
-![Posts Listing](https://via.placeholder.com/800x400/F59E0B/FFFFFF?text=Posts+Listing+-+Search%2C+Filter+%26+Pagination)
+![Posts Listing](![Screenshot 2025-06-25 230350](https://github.com/user-attachments/assets/c394fe09-664c-4884-ab48-244da8eca3ea)
 *Posts listing with search, filtering, and pagination functionality*
 
 ### Authentication
-![Authentication](https://via.placeholder.com/800x400/EF4444/FFFFFF?text=Authentication+-+Login+%26+Registration+Forms)
+![Screenshot 2025-06-25 230146](https://github.com/user-attachments/assets/041ce635-20cc-4afd-be57-eafb8dc60bb4)
 *Secure authentication system with modern form design*
 
-### Single Post View
-![Single Post](https://via.placeholder.com/800x400/06B6D4/FFFFFF?text=Single+Post+-+Content+%26+Comments+System)
-*Detailed post view with comments system and social features*
 
 
 ## 📚 API Documentation
