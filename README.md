@@ -221,7 +221,7 @@ Edit `.env.local` with your configuration:
 ## 📱 Screenshots
 
 ### Homepage
-![Homepage](https://via.placeholder.com/800x400/3B82F6/FFFFFF?text=Homepage+-+Hero+Section+with+Featured+Posts)
+![Homepage](![Screenshot 2025-06-25 230045](https://github.com/user-attachments/assets/88ba41b7-d7a0-4731-ae93-08e1c22c73af)
 *Modern homepage with hero section, featured posts, and statistics*
 
 ### User Dashboard
