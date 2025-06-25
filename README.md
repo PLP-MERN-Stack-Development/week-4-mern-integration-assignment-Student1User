@@ -418,10 +418,10 @@ Content-Type: application/json
 ## 📞 Support and Contact
 
 For questions about this assignment submission:
-- **Student**: [Your Name]
-- **Email**: [Your Email]
-- **GitHub**: [Your GitHub Username]
-- **Repository**: [GitHub Classroom Repository URL]
+- **Student**: [Emmanuel M Jesse]
+- **Email**: [magachi.emmanuel@students.jkuat.ac.ke]
+- **GitHub**: [https://github.com/Student1User]
+
 
 ## 📄 License
 
